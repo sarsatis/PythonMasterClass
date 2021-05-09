@@ -8,7 +8,7 @@ for number in numbers:
 
 print(squares)
 
-########################################
+################################################################################
 # Above same code can be written like below in comprehension
 numbers = [1, 2, 3, 4, 5, 6]
 
