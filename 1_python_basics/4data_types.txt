@@ -1,0 +1,16 @@
+#Python contains several data types
+1)numeric
+2)iterator
+3)sequence
+4)mapping
+5)file
+6)class
+7)exception
+
+
+#Python 3 has 3 Numeric data types
+1)int  #In python3 int replaces long. i.e there is no long data type in py3
+2)float
+3)complex
+
+#Note there is no limit to the size of the values that you can store in a python int

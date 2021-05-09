@@ -1,0 +1,8 @@
+Some useful commands in sqlite
+1) to open sqlite in terminal :- sqlite3
+2) to backup existing tables :- .backup nameofbackup
+3) to see the schema of existing tables :- .schema
+4) to list all the tables :- .tables
+5) to enables headers :- .headers on
+6) to copy all the table values/ to create a dump :- .dump
+7) to open sqlite with existing records file :- sqlite3 music.db
